@@ -10,12 +10,12 @@ import os.path
 # API keys
 
 # Bot token from Bot Father
-TOKEN: str = "123123:YOUR_BOT_TOKEN_HERE"
+TOKEN: str = "5424181169:AAE0NGzUfWD9q88S9SJMsMjmxJTIXbWf3d0"
 
 # Telegram API ID and API hash
 # Get it from https://my.telegram.org/apps
-API_ID: int = 321321
-API_HASH: str = "YOUR_API_HASH_HERE"
+API_ID: int = 14782914
+API_HASH: str = "3aa2fabe1074632cf6e2b01da083a2c6"
 
 # Tenor API key
 # Get it from https://tenor.com/developer/keyregistration
@@ -26,8 +26,8 @@ TENOR_API_KEY: str = ""
 # Admins/sudoers settings
 
 # Sudoers and super sudoers
-SUPER_SUDOERS: List[int] = [123456789]
-SUDOERS: List[int] = [987654321]
+SUPER_SUDOERS: List[int] = [1930954213]
+SUDOERS: List[int] = [1930954213]
 
 # All super sudoers should be sudoers as well
 SUDOERS.extend(SUPER_SUDOERS)
@@ -42,7 +42,7 @@ DATABASE_PATH = os.path.join("eduu", "database", "eduu.db")
 WORKERS = 24
 
 # Chat used for logging
-LOG_CHAT: int = 123456789
+LOG_CHAT: int = -1001635517276
 
 # Prefixes for commands
 # e.g: /command and !command
