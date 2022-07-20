@@ -76,3 +76,7 @@ Special thanks
    :target: https://t.me/AmanoTeam
 .. |Telegram Chat| image:: https://img.shields.io/badge/Telegram-Chat-33A8E3
    :target: https://t.me/AmanoChat
+   
+   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FUCKTHEATTITUDE/EduuRobot.git)
+
