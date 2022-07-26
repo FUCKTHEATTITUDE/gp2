@@ -53,7 +53,7 @@ class Eduu(Client):
         await del_restarted()
 
         start_message = (
-            "<b>EduuRobot started!</b>\n\n"
+            "<b>luna groupgaurd started!</b>\n\n"
             f"<b>Version:</b> <code>v{eduu.__version__} ({self.version_code})</code>\n"
             f"<b>Pyrogram:</b> <code>v{pyrogram.__version__}</code>"
         )
