@@ -10,7 +10,7 @@ import os.path
 # API keys
 
 # Bot token from Bot Father
-TOKEN: str = "5515531668:AAHo5a3R-5BvJYNKDcJYSVnI4YypFuffEWs"
+TOKEN: str = "5460294379:AAGs8EFEHWp_peBMFMPLFox60i6N9XffXVk"
 
 # Telegram API ID and API hash
 # Get it from https://my.telegram.org/apps
