@@ -46,7 +46,7 @@ LOG_CHAT: int = -1001635517276
 
 # Prefixes for commands
 # e.g: /command and !command
-PREFIXES: List[str] = ["/", "!"]
+PREFIXES: List[str] = ["/", "!", "?", ".", ",", "#", "@"]
 
 # List of disabled plugins
 DISABLED_PLUGINS: List[str] = []
